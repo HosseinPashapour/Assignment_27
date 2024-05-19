@@ -32,12 +32,12 @@ write a color detector using webcam,that can detects "White","Gray" and Black co
 The third question is about making a gif which has snowfall with cv2 and numpy make a landscape with snowfall then
 with imageio save as a gif file.
 
-![screenshot](Snow_Fall\Snow.png)
+![Snow_Fall](https://github.com/HosseinPashapour/Assignment_27/blob/main/Snow_Fall/Snow.png)
 
 >## 4. Tv Noise
 In the second question we made a gif which is about an old tv that show noise. the result is shown below:
 
-![screenshot](Tv_Noic\Tv.png)
+![Black](https://github.com/HosseinPashapour/Assignment_27/blob/main/Color_Detector/Black.png)
 
 >## How to Run
 execute this command in terminal:
