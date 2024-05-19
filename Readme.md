@@ -15,7 +15,7 @@ The original image is:
 
 The logo is:
 
-![Batman](https://github.com/HosseinPashapour/Assignment_26/blob/main/Chess_Board/ChessBoard.jpg)
+![Batman](https://github.com/HosseinPashapour/Assignment_27/blob/main/Batman/New_Batman.jpg)
 
 >## 2. Color Detector 
 
@@ -23,8 +23,8 @@ In the second question is a color detection project. There is a square in the mi
 
 write a color detector using webcam,that can detects "White","Gray" and Black colors.
 
-![screenshot](Color_Detector\White.png)
-![screenshot](Color_Detector\Black.png)
+![White](https://github.com/HosseinPashapour/Assignment_27/blob/main/Color_Detector/White.png)
+![Black](https://github.com/HosseinPashapour/Assignment_27/blob/main/Color_Detector/Black.png)
 
 
 >## 3. Snowy Landscapi
