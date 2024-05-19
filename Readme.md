@@ -11,11 +11,11 @@ import RGB image and with thresholding make it white and black then
 
 The original image is:
 
-![screenshot](Batman\Batman.jpg)
+![Batman](https://github.com/HosseinPashapour/Assignment_27/blob/main/Batman/Batman.jpg)
 
 The logo is:
 
-![screenshot](Batman\New_Batman.jpg)
+![Batman](https://github.com/HosseinPashapour/Assignment_26/blob/main/Chess_Board/ChessBoard.jpg)
 
 >## 2. Color Detector 
 
