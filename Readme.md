@@ -37,7 +37,7 @@ with imageio save as a gif file.
 >## 4. Tv Noise
 In the second question we made a gif which is about an old tv that show noise. the result is shown below:
 
-![Black](https://github.com/HosseinPashapour/Assignment_27/blob/main/Color_Detector/Black.png)
+![Tv_Noic](https://github.com/HosseinPashapour/Assignment_27/blob/main/Tv_Noic/Tv.png)
 
 >## How to Run
 execute this command in terminal:
